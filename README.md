@@ -21,10 +21,31 @@ This planter uses a D1 Mini Arduino board that has a Capacitive Soil Moisture Se
 
 
 # Glance on Firmware:
-I'm planning to add graphs and bars for temperature and humidity on the OLED display (Not sure if I'll be able to do it because the screen is too small ig). 
-I'm also planning to design an app to show the plant health so that the user can water the plant when it gets low on moisture even when he is not infront of the OLED display itself. 
+The pcb contains code to _read the moisture and temperature data_ and _display it on the OLED display_
+The UI code is well spaced and things have space to breathe so it looks more premium (althought how could a small display ever feel premium ;)
 
 _Here is a snippet of my code:_
+<img width="1319" height="445" alt="image" src="https://github.com/user-attachments/assets/6e185714-69bf-41fe-b02a-06a4d8af5055" />
+
+# Why iplanter?
+I want to make this project because many plants die or wilt off without human observation and as our nature we tend to forget to keep watch on our plants. This ignorance leads to the death of the plant. I mean many people don't know when their plant needs water or is too warm or too cold..
+My project solves this problem. The health of the plant is displayed on an OLED display bound to the pot.
+
+<img width="844" height="775" alt="image" src="https://github.com/user-attachments/assets/364b5d27-9e69-45fc-9829-e96e339fb912" />
+
+To make it more fun the display includes fun emoticons like smiley or sad face for a better understand of the plant's health.
+
+# Structure
+The project has 3 components
+1. The pot of course
+2. A casing that encloses the pcb board (other than the display) for protection against dirt
+3. The actual pcb that does all the work AKA _the brain_
+
+<img width="1261" height="679" alt="Screenshot 2026-04-12 233335" src="https://github.com/user-attachments/assets/fa3ca28c-6865-4be8-8868-2964c9bb568c" />
+
+
+
+
 
 
 
