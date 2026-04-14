@@ -43,6 +43,10 @@ The project has 3 components
 
 <img width="1261" height="679" alt="Screenshot 2026-04-12 233335" src="https://github.com/user-attachments/assets/fa3ca28c-6865-4be8-8868-2964c9bb568c" />
 
+# Note:
+You might notice that there isn't any moisture sensor in any of the pcb schematics, that is because there no footprint for the _Capcitive Soil Moisture Sensor_.
+That is why I hav used just _3 pin headers_ to layout the VCC, GND and the AOUT pins.
+These three pins are actually visible in the _schematic view_ but they are not rendered in the _pcb editorial view_
 
 
 
