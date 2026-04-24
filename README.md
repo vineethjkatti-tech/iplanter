@@ -12,7 +12,7 @@ I'm building an IoT based soil moisture and humidity, temperature sensing smart 
 
 
 # Detailed Description 
-This planter uses a D1 Mini Arduino board that has a Capacitive Soil Moisture Sensor, OLED display ( 128x64 ) and a DHT11. The whole thing is put together with jumper wires (for convenience). The OLED display is used to show all the temperature and moisture data and it has emoticons that correspond to current plant health for a more nicer appeal (and also easier to understand ;)). I'm thinking of usb for power but a battery could also work because power consumption would be relatively less. The display is fitted at the top for easier view. All the electronics sit at the bottom part and the two parts are connect with a bayonet mount.
+This planter uses a D1 Mini Arduino board that has a Capacitive Soil Moisture Sensor, OLED display ( 128x64 ) and a DHT11. . The OLED display is used to show all the temperature and moisture data and it has emoticons that correspond to current plant health for a more nicer appeal (and also easier to understand ;)). It uses the usb port of the D1 MINI for power supply. The display is fitted at the top for easier view. All the electronics sit at the bottom part and the two parts are connect with a bayonet mount.
 
 <img width="1280" height="720" alt="pcb" src="https://github.com/user-attachments/assets/0bf646db-d3a4-40f1-af00-9c773751e6d0" />
 
@@ -23,6 +23,11 @@ The UI code is well spaced and things have space to breathe so it looks more pre
 
 _Here is a snippet of my code:_
 <img width="1319" height="445" alt="image" src="https://github.com/user-attachments/assets/6e185714-69bf-41fe-b02a-06a4d8af5055" />
+
+# Zine Page
+Check out my zine pagee..
+<img width="147" height="226" alt="image" src="https://github.com/user-attachments/assets/17c1d59b-0209-4ddc-a74b-06ccdeebdf46" />
+_You can also find it as a pdf in this repo._
 
 # Why iplanter?
 I want to make this project because many plants die or wilt off without human observation and as our nature we tend to forget to keep watch on our plants. This ignorance leads to the death of the plant. I mean many people don't know when their plant needs water or is too warm or too cold..
