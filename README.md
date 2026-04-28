@@ -2,7 +2,7 @@
 hey!! this is my first project for fallout, it is an IoT smart planter which uses moisture, temperature sensors to display the health of the plant on an OLED display. 
 
 # Overview
-I'm building an IoT based soil moisture and humidity, temperature sensing smart planter which warns (or reminds) the user to water the plant whenever the planter has low moisture or high temperature or humidity. All of this is displayed on a OLED display which has fancy emoticons correspoding to plant health ( a smiley for great plant health for eg). 
+I'm building an IoT based soil moisture and humidity, temperature sensing smart planter which warns (or reminds) the user to water the plant whenever the planter has low moisture or high temperature or humidity. All of this is displayed on a OLED display.
 
 <img width="239" height="262" alt="image" src="https://github.com/user-attachments/assets/02c9deb1-a789-4b24-b947-c14409dc1196" />
 
