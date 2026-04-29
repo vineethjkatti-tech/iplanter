@@ -64,6 +64,9 @@ Solder it to the 3 through holes on the pcb.
 
 Connect the barrel jack to a switchboard using suitable cable.
 
+>Firmware
+The firmware code can be found [Here](iplanter/Firmware). Feel free to modify it.
+
 
 _If you have done everything correctly your iplanter should be ready and functioning_
 
