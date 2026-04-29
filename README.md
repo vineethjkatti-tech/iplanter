@@ -65,6 +65,7 @@ Solder it to the 3 through holes on the pcb.
 Connect the barrel jack to a switchboard using suitable cable.
 
 >Firmware
+
 The firmware code can be found [Here](iplanter/Firmware). Feel free to modify it.
 
 
@@ -84,6 +85,16 @@ The project has 3 main parts:
 2. Gerber files can be found in the zip folder in _Productions_ folder.
 3 All the pinout diagrams and wiring schematics can be found [Here](iplanter/KICAD)
 
+# Gallery
+
+Wiring Diagram:
+<img width="460" height="375" alt="image" src="https://github.com/user-attachments/assets/fc77b9f6-8f6c-4ebe-a6fa-6ebbbacbbdb8" />
+
+iplanter:
+<img width="238" height="302" alt="image" src="https://github.com/user-attachments/assets/2aa4af70-b90f-4394-83dc-768b00ddbd18" />
+
+PCB:
+<img width="614" height="343" alt="image" src="https://github.com/user-attachments/assets/59f05787-012a-4bc3-9c54-76b6134b58d2" />
 
 
 
