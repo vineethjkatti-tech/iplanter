@@ -79,7 +79,7 @@ The project has 3 main parts:
 # Note:
 1. Adhesive is used to mount the display to Part A for simplicity.
 2. Gerber files can be found in the zip folder in _Productions_ folder.
-
+3 All the pinout diagrams and wiring schematics can be found [Here](iplanter/KICAD)
 
 
 
