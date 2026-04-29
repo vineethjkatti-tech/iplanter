@@ -28,6 +28,48 @@ _You can also find it as a pdf in this repo._
 I want to make this project because many plants die or wilt off without human observation and as our nature we tend to forget to keep watch on our plants. This ignorance leads to the death of the plant. I mean many people don't know when their plant needs water or is too warm or too cold..
 My project solves this problem. The health of the plant is displayed on an OLED display bound to the pot.
 
+
+
+# Steps To Build iplanter
+_All the materials needed are given the in the BOM file_
+
+>Assembling the 3D Parts
+
+1. Start by joining the Part A and Part B ( Models can be found in _CAD_ folder) Using the bayonet mount.
+2. Next insert the Moisture Sensor into its _encasing_.
+
+>PCB
+
+First get the pcb printed and do the following:
+1. DHT11 to D1 Mini:
+Make use of the 3 pin female headers to connect the sensor.
+
+2. Capacitive Sensor to D1 Mini:
+Use the 3 pin mount given on the pcb to connect the sensor to it.
+.Route the wires through the hole given on the part b just below where the sensor sits.
+
+3. 1.3 inch I2C OLED Display Module to D1 Mini:
+Use the 4 pin mount given on the pcb to connect the screen to pcb using _jumper wires_
+.Route the wires through the tubes that stretch from the display to the end of Part A.
+
+4. DC Barrel Jack to D1 Mini
+Solder it to the 3 through holes on the pcb.
+
+>Further
+
+1. Use adhesive - Glue gun, industry adhesive (503 super glue) to mount the display to part a.
+2. The pcb should sit in the grooves made in part b.
+
+>Power Supply
+
+Connect the barrel jack to a switchboard using suitable cable.
+
+
+_If you have done everything correctly your iplanter should be ready and functioning_
+
+
+
+
 # Structure
 The project has 3 main parts:
 1. The Upper part which houses the display and part where you put soil into.
