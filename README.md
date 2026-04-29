@@ -103,7 +103,7 @@ Zine Page:
 <img width="148" height="225" alt="image" src="https://github.com/user-attachments/assets/570a7dc6-2c6b-4991-b338-7c53f4eea06f" />
 
 
-made with love by @vivacious_eye :()
+made with love by vivacious_eye :()
 
 
 
