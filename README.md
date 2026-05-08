@@ -1,3 +1,13 @@
+# ZINE PAGE!!
+<img width="335" height="512" alt="iplanter_zine (1)" src="https://github.com/user-attachments/assets/333e0fc0-3159-462e-8765-57c3332876fb" />
+Check out my zine page...
+You can find it
+
+
+
+
+
+
 # iplanter
 hey!! this is my first project for fallout, it is an IoT smart planter which uses moisture, temperature sensors to display the health of the plant on an OLED display. 
 
@@ -19,10 +29,7 @@ The UI code is well spaced and things have space to breathe so it looks more pre
 _Here is a snippet of my code:_
 <img width="1319" height="445" alt="image" src="https://github.com/user-attachments/assets/6e185714-69bf-41fe-b02a-06a4d8af5055" />
 
-# Zine Page
-Check out my zine pagee..
-<img width="147" height="227" alt="image" src="https://github.com/user-attachments/assets/c20e3c09-863b-4760-95ea-555b712f7bcc" />
-_You can also find it as a pdf in this repo._
+
 
 # Why iplanter?
 I want to make this project because many plants die or wilt off without human observation and as our nature we tend to forget to keep watch on our plants. This ignorance leads to the death of the plant. I mean many people don't know when their plant needs water or is too warm or too cold..
