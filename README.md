@@ -1,10 +1,3 @@
-# ZINE PAGE!!
-<img width="1188" height="1820" alt="iplanter_zine" src="https://github.com/user-attachments/assets/b7ec8c28-1615-4038-93d9-1b4ab9843a75" />
-
-Check out my zine page...
-You can find it [here](https://github.com/vineethjkatti-tech/iplanter/blob/main/zine.pdf)
-
-
 # iplanter
 hey!! this is my first project for fallout, it is an IoT smart planter which uses moisture, temperature sensors to display the health of the plant on an OLED display. 
 
@@ -17,7 +10,6 @@ I'm building an IoT based soil moisture and humidity, temperature sensing smart 
 # Detailed Description 
 This planter uses a **D1 Mini Arduino board** that has a **Capacitive Soil Moisture Sensor**, **OLED display ( 128x64 )** and a **DHT11**. All these components are connected to the pcb using **_pin headers_**. The OLED display is used to show all the **temperature** and** moisture data**. The PCB is powered using  **5V DC Barrel Jack**, then it is routed through D1 Mini's peripherals. The display is fitted at the top using **4 M2 Heatset Inserts**. All the electronics sit at the bottom part and the two parts are connect with a **Bayonet mount**. 
 
-
 # Glance on Firmware:
 The pcb contains code to _read the moisture and temperature data_ and _display it on the OLED display_
 The UI code is well spaced and things have space to breathe so it looks more premium (althought how could a small display ever feel premium ;)
@@ -26,6 +18,11 @@ The UI code is well spaced and things have space to breathe so it looks more pre
 _Here is a snippet of my code:_
 <img width="1319" height="445" alt="image" src="https://github.com/user-attachments/assets/6e185714-69bf-41fe-b02a-06a4d8af5055" />
 
+# ZINE PAGE!!
+<img width="1188" height="1820" alt="iplanter_zine" src="https://github.com/user-attachments/assets/b7ec8c28-1615-4038-93d9-1b4ab9843a75" />
+
+Check out my zine page...
+You can find it [here](https://github.com/vineethjkatti-tech/iplanter/blob/main/zine.pdf)
 
 
 # Why iplanter?
