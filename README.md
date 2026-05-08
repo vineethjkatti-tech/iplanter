@@ -1,5 +1,6 @@
 # ZINE PAGE!!
-<img width="335" height="512" alt="iplanter_zine (1)" src="https://github.com/user-attachments/assets/333e0fc0-3159-462e-8765-57c3332876fb" />
+<img width="1188" height="1820" alt="iplanter_zine" src="https://github.com/user-attachments/assets/b7ec8c28-1615-4038-93d9-1b4ab9843a75" />
+
 Check out my zine page...
 You can find it [here](https://github.com/vineethjkatti-tech/iplanter/blob/main/zine.pdf)
 
