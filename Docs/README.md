@@ -83,9 +83,8 @@ The project has 3 main parts:
 3. An encasing for the electronic parts of the moisture sensor.
 
 # Note:
-1. Adhesive is used to mount the display to Part A for simplicity.
-2. Gerber files can be found in the zip folder in _Productions_ folder.
-3 All the pinout diagrams and wiring schematics can be found [Here](iplanter/KICAD)
+1. Gerber files can be found in the zip folder in _Productions_ folder.
+2. All the pinout diagrams and wiring schematics can be found [Here](iplanter/KICAD)
 
 # Gallery
 
