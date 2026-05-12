@@ -19,10 +19,10 @@ _Here is a snippet of my code:_
 <img width="1319" height="445" alt="image" src="https://github.com/user-attachments/assets/6e185714-69bf-41fe-b02a-06a4d8af5055" />
 
 # ZINE PAGE!!
-<img width="1188" height="1820" alt="iplanter_zine" src="https://github.com/user-attachments/assets/b7ec8c28-1615-4038-93d9-1b4ab9843a75" />
+<img width="1184" height="1820" alt="iplanter_zine (1)" src="https://github.com/user-attachments/assets/a72b3cf6-9499-49d5-a1fe-97273d6a94b0" />
 
 Check out my zine page...
-You can find it [here](https://github.com/vineethjkatti-tech/iplanter/blob/main/zine.pdf)
+You can find it [here](https://github.com/vineethjkatti-tech/iplanter/blob/main/iplanter_zine.pdf)
 
 
 # Why iplanter?
