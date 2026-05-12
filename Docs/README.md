@@ -59,7 +59,7 @@ Solder it to the 3 through holes on the pcb.
 
 >Further
 
-1. Use adhesive - Glue gun, industry adhesive (503 super glue) to mount the display to part a.
+1. Use M2 screws and insert to mount the display to part a.
 2. The pcb should sit in the grooves made in part b.
 
 >Power Supply
