@@ -14,7 +14,7 @@ This planter uses a **D1 Mini Arduino board** that has a **Capacitive Soil Moist
 The pcb contains code to _read the moisture and temperature data_ and _display it on the OLED display_
 The UI code is well spaced and things have space to breathe so it looks more premium (althought how could a small display ever feel premium ;)
 
-<img width="314" height="198" alt="image" src="https://github.com/user-attachments/assets/fe7cbb00-371c-4997-b788-28b8c4086b71" />
+<img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/68a32ad2-7e9b-44a7-9ecb-e0dbb252d559" />
 
 _Here is a snippet of my code:_
 <img width="1319" height="445" alt="image" src="https://github.com/user-attachments/assets/6e185714-69bf-41fe-b02a-06a4d8af5055" />
