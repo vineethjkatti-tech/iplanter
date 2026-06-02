@@ -99,12 +99,15 @@ PCB:
 <img width="614" height="343" alt="image" src="https://github.com/user-attachments/assets/59f05787-012a-4bc3-9c54-76b6134b58d2" />
 
 Rough Sketch for Design:
+
 <img width="720" height="1280" alt="WhatsApp Image 2026-04-17 at 9 29 17 PM" src="https://github.com/user-attachments/assets/517bfae0-5abe-4c96-8787-3ec7c64766ec" />
 
 Zine Page:
+
 <img width="148" height="225" alt="image" src="https://github.com/user-attachments/assets/570a7dc6-2c6b-4991-b338-7c53f4eea06f" />
 
-Clips-Locks for the PCB: 
+Clips-Locks for the PCB:
+
 <img width="1000" alt="Screenshot_2026-06-02_203748" src="https://github.com/user-attachments/assets/2e33bbf4-52c2-4b8c-a85c-f76d012ff8c9" />
 _the fourth lock is not captures but is present, you can check the design_
 
