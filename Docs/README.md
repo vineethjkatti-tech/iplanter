@@ -8,7 +8,10 @@ I'm building an IoT based soil moisture and humidity, temperature sensing smart 
 
 
 # Detailed Description 
-This planter uses a **D1 Mini Arduino board** that has a **Capacitive Soil Moisture Sensor**, **OLED display ( 128x64 )** and a **DHT11**. All these components are connected to the pcb using **_pin headers_**. The OLED display is used to show all the **temperature** and** moisture data**. The PCB is powered using  **5V DC Barrel Jack**, then it is routed through D1 Mini's peripherals. The display is fitted at the top using **4 M2 Heatset Inserts**. All the electronics sit at the bottom part and the two parts are connect with a **Bayonet mount**. 
+This planter uses a **D1 Mini Arduino board** that has a **Capacitive Soil Moisture Sensor**, **OLED display ( 128x64 )** and a **DHT11**. All these components are connected to the pcb using **_pin headers_**. The OLED display is used to show all the **temperature** and** moisture data**. The PCB is powered using  **5V DC Barrel Jack**, then it is routed through D1 Mini's peripherals. The display is fitted at the top using **4 M2 Heatset Inserts**. All the electronics sit at the bottom part and the two parts are connect with a **Bayonet mount**. The **PCB** ic connected to **Part A** using **4 clips**. 
+
+<img width="1000" alt="Screenshot_2026-06-02_203748" src="https://github.com/user-attachments/assets/2e33bbf4-52c2-4b8c-a85c-f76d012ff8c9" />
+
 
 # Glance on Firmware:
 The pcb contains code to _read the moisture and temperature data_ and _display it on the OLED display_
