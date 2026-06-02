@@ -114,6 +114,8 @@ Clips-Locks for the PCB:
 <img width="1000" alt="Screenshot_2026-06-02_203748" src="https://github.com/user-attachments/assets/2e33bbf4-52c2-4b8c-a85c-f76d012ff8c9" />
 _the fourth lock is not captures but is present, you can check the design_
 
+---------
+
 
 made with love by vivacious_eye :()
 
