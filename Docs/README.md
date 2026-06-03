@@ -21,7 +21,8 @@ The UI code is well spaced and things have space to breathe so it looks more pre
 
 
 # ZINE PAGE!!
-<img width="1184" height="1820" alt="iplanter_zine (1)" src="https://github.com/user-attachments/assets/a72b3cf6-9499-49d5-a1fe-97273d6a94b0" />
+<img width="443" height="683" alt="iplanter (2)" src="https://github.com/user-attachments/assets/5b5aabe0-de48-4b91-8585-458db4a14a27" />
+
 
 Check out my zine page...
 You can find it [here](https://github.com/vineethjkatti-tech/iplanter/blob/main/iplanter_zine.pdf)
@@ -107,7 +108,8 @@ Rough Sketch for Design:
 
 Zine Page:
 
-<img width="148" height="225" alt="image" src="https://github.com/user-attachments/assets/570a7dc6-2c6b-4991-b338-7c53f4eea06f" />
+<img width="443" height="683" alt="iplanter (2)" src="https://github.com/user-attachments/assets/0ed1b0a5-9227-4ee7-9c88-8d1460652176" />
+
 
 Clips-Locks for the PCB:
 
