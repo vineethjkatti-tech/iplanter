@@ -8,7 +8,10 @@ I'm building an IoT based soil moisture and humidity, temperature sensing smart 
 
 
 # Detailed Description 
-This planter uses a **D1 Mini Arduino board** that has a **Capacitive Soil Moisture Sensor**, **OLED display ( 128x64 )** and a **DHT11**. All these components are connected to the pcb using **_pin headers_**. The OLED display is used to show all the **temperature** and** moisture data**. The PCB is powered using  **5V DC Barrel Jack**, then it is routed through D1 Mini's peripherals. The display is fitted at the top using **4 M2 Heatset Inserts**. All the electronics sit at the bottom part and the two parts are connect with a **Bayonet mount**. 
+This planter uses a **D1 Mini Arduino board** that has a **Capacitive Soil Moisture Sensor**, **OLED display ( 128x64 )** and a **DHT11**. All these components are connected to the pcb using **_pin headers_**. The OLED display is used to show all the **temperature** and** moisture data**. The PCB is powered using  **5V DC Barrel Jack**, then it is routed through D1 Mini's peripherals. The display is fitted at the top using **4 M2 Heatset Inserts**. All the electronics sit at the bottom part and the two parts are connect with a **Bayonet mount**. The **PCB** ic connected to **Part A** using **4 clips** (image in gallery).
+
+
+
 
 # Glance on Firmware:
 The pcb contains code to _read the moisture and temperature data_ and _display it on the OLED display_
@@ -16,11 +19,10 @@ The UI code is well spaced and things have space to breathe so it looks more pre
 
 <img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/68a32ad2-7e9b-44a7-9ecb-e0dbb252d559" />
 
-_Here is a snippet of my code:_
-<img width="1319" height="445" alt="image" src="https://github.com/user-attachments/assets/6e185714-69bf-41fe-b02a-06a4d8af5055" />
 
 # ZINE PAGE!!
-<img width="1184" height="1820" alt="iplanter_zine (1)" src="https://github.com/user-attachments/assets/a72b3cf6-9499-49d5-a1fe-97273d6a94b0" />
+<img width="443" height="683" alt="iplanter (2)" src="https://github.com/user-attachments/assets/5b5aabe0-de48-4b91-8585-458db4a14a27" />
+
 
 Check out my zine page...
 You can find it [here](https://github.com/vineethjkatti-tech/iplanter/blob/main/iplanter_zine.pdf)
@@ -89,19 +91,32 @@ The project has 3 main parts:
 # Gallery
 
 Wiring Diagram:
+
 <img width="460" height="375" alt="image" src="https://github.com/user-attachments/assets/fc77b9f6-8f6c-4ebe-a6fa-6ebbbacbbdb8" />
 
 iplanter:
+
 <img width="238" height="302" alt="image" src="https://github.com/user-attachments/assets/2aa4af70-b90f-4394-83dc-768b00ddbd18" />
 
 PCB:
+
 <img width="614" height="343" alt="image" src="https://github.com/user-attachments/assets/59f05787-012a-4bc3-9c54-76b6134b58d2" />
 
 Rough Sketch for Design:
+
 <img width="720" height="1280" alt="WhatsApp Image 2026-04-17 at 9 29 17 PM" src="https://github.com/user-attachments/assets/517bfae0-5abe-4c96-8787-3ec7c64766ec" />
 
 Zine Page:
-<img width="148" height="225" alt="image" src="https://github.com/user-attachments/assets/570a7dc6-2c6b-4991-b338-7c53f4eea06f" />
+
+<img width="443" height="683" alt="iplanter (2)" src="https://github.com/user-attachments/assets/0ed1b0a5-9227-4ee7-9c88-8d1460652176" />
+
+
+Clips-Locks for the PCB:
+
+<img width="1000" alt="Screenshot_2026-06-02_203748" src="https://github.com/user-attachments/assets/2e33bbf4-52c2-4b8c-a85c-f76d012ff8c9" />
+the fourth lock is not captures but is present, you can check the design
+
+---------
 
 
 made with love by vivacious_eye :()
