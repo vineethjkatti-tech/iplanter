@@ -1,0 +1,24 @@
+# PlatformIO
+.pio/
+build/
+
+# KiCad backups
+*-backup.sch
+*-backup.kicad_pcb
+*-backup.kicad_sch
+-autosave-*
+fp-info-cache
+*.bck
+
+# Editor
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc

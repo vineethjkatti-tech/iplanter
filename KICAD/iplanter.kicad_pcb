@@ -1400,7 +1400,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/LAYERD_Files/wemos-d1-mini-8.snapshot.1/wemos-mini-d1.stp"
+		(model "${KICAD7_3DMODEL_DIR}/WEMOS_D1_mini.stp"
 			(offset
 				(xyz 11 -9.5 3)
 			)
@@ -1686,7 +1686,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Vineeth/3D models/STEP/PCB Components/KY-015.step"
+		(model "${KICAD7_3DMODEL_DIR}/KY-015.step"
 			(offset
 				(xyz -15.5 -12.5 30.5)
 			)

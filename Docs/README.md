@@ -68,7 +68,7 @@ Connect the barrel jack to a switchboard using suitable cable.
 
 >Firmware
 
-The firmware code can be found [Here](iplanter/Firmware). Feel free to modify it.
+The firmware code can be found [Here](Firmware). Feel free to modify it.
 
 
 _If you have done everything correctly your iplanter should be ready and functioning_
@@ -83,8 +83,8 @@ The project has 3 main parts:
 3. An encasing for the electronic parts of the moisture sensor.
 
 # Note:
-1. Gerber files can be found in the zip folder in _Productions_ folder.
-2. All the pinout diagrams and wiring schematics can be found [Here](iplanter/KICAD)
+1. Gerber files can be found in the zip folder in _Production_ folder.
+2. All the pinout diagrams and wiring schematics can be found [Here](KICAD)
 
 # Gallery
 
