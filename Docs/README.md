@@ -8,7 +8,7 @@ I'm building a soil moisture-humidity and temperature sensing smart planter whic
 
 
 # Detailed Description 
-This planter uses a **D1 Mini Arduino board** that has a **Capacitive Soil Moisture Sensor**, **OLED display ( 128x64 )** and a **DHT11**. All these components are connected to the pcb using **_pin headers_**. The OLED display is used to show all the **temperature** and** moisture data**. The PCB is powered using  **5V DC Barrel Jack**, then it is routed through D1 Mini's peripherals. The display is fitted at the top using **4 M2 Heatset Inserts**. All the electronics sit at the bottom part and the two parts are connect with a **Bayonet mount**. The **PCB** ic connected to **Part A** using **4 clips** (image in gallery).
+This planter uses a **D1 Mini Arduino board** that has a **Capacitive Soil Moisture Sensor**, **OLED display ( 128x64 )** and a **DHT11**. All these components are connected to the pcb using **_pin headers_**. The OLED display is used to show all the **temperature** and **moisture data**. The PCB is powered using  **5V DC Barrel Jack**, then it is routed through D1 Mini's peripherals. The display is fitted at the top using **4 M2 Heatset Inserts**. All the electronics sit at the bottom part and the two parts are connect with a **Bayonet mount**. The **PCB** is connected to **Part B** using **4 M2 Screws**.
 
 
 
