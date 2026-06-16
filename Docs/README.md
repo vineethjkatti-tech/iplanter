@@ -71,7 +71,7 @@ Connect the barrel jack to a switchboard using suitable cable.
 
 >Firmware
 
-The firmware code can be found [Here](Firmware). Feel free to modify it.
+The firmware code can be found [Here](https://github.com/vineethjkatti-tech/ATTN_unit/blob/main/Firmware/main.cpp). Feel free to modify it.
 
 
 _If you have done everything correctly your iplanter should be ready and functioning_
