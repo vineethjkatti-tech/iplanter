@@ -1,10 +1,10 @@
 # iplanter
-hey!! this is my first project for fallout, it is an IoT smart planter which uses moisture, temperature sensors to display the health of the plant on an OLED display. 
+**iplanter** is a smart planter which uses moisture and temperature sensor to display the health of the plant on an OLED display. 
 
 # Overview
-I'm building an IoT based soil moisture and humidity, temperature sensing smart planter which warns (or reminds) the user to water the plant whenever the planter has low moisture or high temperature or humidity. All of this is displayed on a OLED display.
+I'm building a soil moisture-humidity and temperature sensing smart planter which warns (or reminds) the user to water the plant whenever the planter has low moisture or high temperature or humidity. All of the data is displayed on the OLED display.
 
-<img width="239" height="262" alt="image" src="https://github.com/user-attachments/assets/02c9deb1-a789-4b24-b947-c14409dc1196" />
+<img width="1280" height="1024" alt="iplanter(detached)" src="https://github.com/user-attachments/assets/d2d50945-5a55-421f-a495-251fa2300045" />
 
 
 # Detailed Description 
@@ -17,15 +17,14 @@ This planter uses a **D1 Mini Arduino board** that has a **Capacitive Soil Moist
 The pcb contains code to _read the moisture and temperature data_ and _display it on the OLED display_
 The UI code is well spaced and things have space to breathe so it looks more premium (althought how could a small display ever feel premium ;)
 
-<img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/68a32ad2-7e9b-44a7-9ecb-e0dbb252d559" />
+<img width="571" height="437" alt="pcb" src="https://github.com/user-attachments/assets/83bc018a-7cad-43a3-8a4e-c90a5e52107e" />
 
 
 # ZINE PAGE!!
-<img width="443" height="683" alt="iplanter (2)" src="https://github.com/user-attachments/assets/5b5aabe0-de48-4b91-8585-458db4a14a27" />
-
+<img width="443" height="683" alt="iplanter" src="https://github.com/user-attachments/assets/4ad6c90c-c71b-4b60-8dbf-40a1c9d52c6a" />
 
 Check out my zine page...
-You can find it [here](https://github.com/vineethjkatti-tech/iplanter/blob/main/iplanter_zine.pdf)
+You can find it [here](https://github.com/vineethjkatti-tech/iplanter/blob/main/Docs/zine.pdf)
 
 
 # Why iplanter?
@@ -63,6 +62,8 @@ Solder it to the 3 through holes on the pcb.
 
 1. Use M2 screws and insert to mount the display to part a.
 2. The pcb should sit in the grooves made in part b.
+
+**Note: You need to use 4 M2 self-tapping screws to connect the PCB to Part B.**
 
 >Power Supply
 
