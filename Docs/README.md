@@ -87,7 +87,7 @@ The project has 3 main parts:
 
 # Note:
 1. Gerber files can be found in the zip folder in _Production_ folder.
-2. All the pinout diagrams and wiring schematics can be found [Here](KICAD)
+2. All the pinout diagrams and wiring schematics can be found [Here](https://github.com/vineethjkatti-tech/ATTN_unit/tree/main/KICAD)
 
 # Gallery
 
