@@ -109,13 +109,8 @@ Rough Sketch for Design:
 
 Zine Page:
 
-<img width="443" height="683" alt="iplanter (2)" src="https://github.com/user-attachments/assets/0ed1b0a5-9227-4ee7-9c88-8d1460652176" />
+<img width="443" height="683" alt="iplanter" src="https://github.com/user-attachments/assets/f5cac6ae-302c-45a2-a985-dddb22c20b6f" />
 
-
-Clips-Locks for the PCB:
-
-<img width="1000" alt="Screenshot_2026-06-02_203748" src="https://github.com/user-attachments/assets/2e33bbf4-52c2-4b8c-a85c-f76d012ff8c9" />
-the fourth lock is not captures but is present, you can check the design
 
 ---------
 
