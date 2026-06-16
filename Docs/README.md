@@ -101,7 +101,8 @@ iplanter:
 
 PCB:
 
-<img width="614" height="343" alt="image" src="https://github.com/user-attachments/assets/59f05787-012a-4bc3-9c54-76b6134b58d2" />
+<img width="571" height="437" alt="pcb" src="https://github.com/user-attachments/assets/f18d41ae-db23-4d62-8ac2-5409549e06ca" />
+
 
 Rough Sketch for Design:
 
