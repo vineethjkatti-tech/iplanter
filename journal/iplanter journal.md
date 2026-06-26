@@ -17,15 +17,20 @@ Then I looked up for moisture and temp/humidity sensors online which were best s
 And I finalised these:
 _Temperature and Humidity Sensor:_
 DHT11
+
 ![image](https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/journal-images/Screenshot%202026-06-24%20140648.png)
+
 , and this:
 _Capacitive Soil Misture Sensor_
+
 ![image](https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/journal-images/Screenshot%202026-06-24%20140659.png)
 
 After Finalising these, obviously I searched for best boards that were compatible with these sensors and I finalised the _ESP8266 WiFi Board_
+
 ![image](https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/journal-images/Screenshot%202026-06-24%20140708.png)
 
 Also while researching on sensors I stumbled upon _Jumper Wires_
+
 ![image](https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/journal-images/Screenshot%202026-06-24%20140721.png)
 
 Finally these 4 are I think the main components I’m going to be needing for my project along with some coding.
