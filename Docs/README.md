@@ -1,6 +1,11 @@
 # iplanter
 **iplanter** is a smart planter which uses moisture and temperature sensor to display the health of the plant on an OLED display. 
 
+# Note
+**THIS PROJECT NEEDS MANUAL REVIEW.** Please review the journal.md and **Reduce Time** if needed. 
+
+Click [here](https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/iplanter%20journal.md) for the journal.md file!!
+
 # Overview
 I'm building a soil moisture-humidity and temperature sensing smart planter which warns (or reminds) the user to water the plant whenever the planter has low moisture or high temperature or humidity. All of the data is displayed on the OLED display.
 
