@@ -38,7 +38,7 @@ Finally these 4 are I think the main components I’m going to be needing for my
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/39c8e9b1-5498-4592-938e-7a8112fe8d25/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse.mp4
 
 ## Entry 2
 - ID: 1422
@@ -64,7 +64,7 @@ Next I went on to research a little about _KiCAD_ as it was the recommended pcb 
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/a0194fdb-2934-48bc-9faa-4f39b76ea9d6/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(1).mp4
 
 ## Entry 3
 - ID: 1499
@@ -94,7 +94,7 @@ Then I closed today's sess thinking I'll see it tomorrow
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/017bf1f2-2a90-4ec8-a157-3f55615da24c/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(2).mp4
 
 ## Entry 4
 - ID: 1658
@@ -128,7 +128,7 @@ After this I ended my sesh with _mixed feelings hehe.._
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/73044bc6-2b32-4cab-95aa-356b489d5356/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(3).mp4
 
 ## Entry 5
 - ID: 1677
@@ -172,7 +172,7 @@ So, I was happy to end my coding sesh and upload a lil of those files not my git
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/ab37e3ce-869a-41e6-bcbc-273c83643db6/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(4).mp4
 
 ## Entry 6
 - ID: 1791
@@ -215,8 +215,8 @@ so _UNTIL WE MEET AGAIN.._
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/a42e9739-10e7-48d4-97ff-4ad5316751c7/video.mp4
-- https://lookout.hackclub.com/api/media/274ed63b-8791-4bec-a9bc-25bfed9e1fe9/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(5).mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(6).mp4
 
 ## Entry 7
 - ID: 1938
@@ -268,7 +268,7 @@ This was my today's routineeee yayyy!!!_
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/8740155c-8126-4273-8aa6-d9e91134e4eb/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(7).mp4
 
 ## Entry 8
 - ID: 2323
@@ -312,7 +312,7 @@ But, We are nearing to our design's end so that's a _win_.
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/71029e5e-effa-463b-9a8b-f3017571bad6/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(8).mp4
 
 ## Entry 9
 - ID: 2472
@@ -346,7 +346,7 @@ But, then I accepted defeat and logged out for the day hoping to come back with 
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/17dc161d-d8e9-436a-915d-6026b2336c81/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(9).mp4
 
 ## Entry 10
 - ID: 2577
@@ -401,7 +401,7 @@ Thats all for today byeee!!
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/d695003b-a4f2-40d3-bc00-90b1c24fa4c6/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(11).mp4
 
 ## Entry 11
 - ID: 2748
@@ -433,7 +433,7 @@ Thats it for today cause I was short on time todayy byeee!!
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/e8717182-92d7-46c3-8b2d-ea1cfd6adc78/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(12).mp4
 
 ## Entry 12
 - ID: 2918
@@ -477,7 +477,7 @@ But, I ended it halfway cause it was close to midnight
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/0d29021f-e4d3-4daf-aa5a-1558b102a603/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(13).mp4
 
 ## Entry 13
 - ID: 3083
@@ -518,7 +518,7 @@ After that I ended my session by updating the _git repo_
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/4732f08f-7ea3-4eb7-bfe2-8156e80a7cf4/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(14).mp4
 
 ## Entry 14
 - ID: 3237
@@ -570,7 +570,7 @@ After this I uploaded everything to my git repo and ended my session!!
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/a2de388d-6fdd-4200-bf0a-34a21ca7cad1/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(15).mp4
 
 ## Entry 15
 - ID: 3416
@@ -605,7 +605,7 @@ The end -- (idk what to write :))
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/0c9ae70b-0913-4697-a8e3-47e122c2646b/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(16).mp4
 
 ## Entry 16
 - ID: 3709
@@ -636,7 +636,7 @@ Then, I tried to mess around in _fusion_ scouting for spots to put usb ports or 
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/688f1e1e-0017-4471-87a2-eae8f582db90/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(17).mp4
 
 ## Entry 17
 - ID: 3824
@@ -692,7 +692,7 @@ Then I imported the new pcb to Fusion and tried to work with it. I stopped halfw
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/03b7322f-26b9-42cc-8047-c56269759760/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(18).mp4
 
 ## Entry 19
 - ID: 4196
@@ -728,7 +728,7 @@ I left it here and closed for the day.
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/b52d8ea6-4c21-4fc5-9a3d-2a394aab2168/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(19).mp4
 
 ## Entry 20
 - ID: 4328
@@ -766,7 +766,7 @@ Again!1 It looked _veryyy ugly_ SO, I decided I would some type of adhesive to s
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/80d7eabc-8b86-4ef7-b661-f2eea82c9321/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(20).mp4
 
 ## Entry 21
 - ID: 4446
@@ -800,7 +800,7 @@ After calculating all the money for the parts the total was only around 11 dolla
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/01673cf9-93a3-456b-bc8c-024d6964afca/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(21).mp4
 
 ## Entry 22
 - ID: 6109
@@ -825,8 +825,8 @@ I took a lot of time and I was extra careful so that my project doesn't get retu
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/86f3cf26-08f5-4a27-b349-2f745497568b/video.mp4
-- https://lookout.hackclub.com/api/media/200e538f-32c4-468b-a43e-9686d0a14264/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(22).mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(23).mp4
 
 ## Entry 23
 - ID: 6237
@@ -847,7 +847,7 @@ I'm going to **resubmittt!!**
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/0c49f766-ea7c-4edd-8c59-523e63b382ec/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(24).mp4
 
 ## Entry 24
 - ID: 6740
@@ -876,7 +876,7 @@ And then I realised I had to add **shipping costs.** So, I went on the internet 
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/815ca600-27fb-43a9-90ad-d8b02d48aac5/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(25).mp4
 
 ## Entry 25
 - ID: 8464
@@ -912,7 +912,7 @@ After that I also had to change the photos of the PCB in the Asset's page due to
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/32767433-f410-4cd4-a7dd-5e8493e4f3a6/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(26).mp4
 
 ## Entry 26
 - ID: 11381
@@ -942,8 +942,8 @@ I also shifted all the objects so that they didn't go out of the printing area.
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/6521b74d-b1e7-4148-a941-ddb9a29554ac/video.mp4
-- https://lookout.hackclub.com/api/media/7e7aac77-6517-4b5f-8983-70b98b5147fb/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(27).mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(28).mp4
 
 ## Entry 27
 - ID: 14026
@@ -974,8 +974,8 @@ I also edited the zine page a lil to make it more **readable and distinguished.*
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/e57b4522-ed95-43bb-bf74-7ba9bb4ac293/video.mp4
-- https://lookout.hackclub.com/api/media/58336c67-600d-42a3-9d92-4480a5b43881/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(29).mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(30).mp4
 
 ## Entry 28
 - ID: 14568
@@ -1016,5 +1016,5 @@ At last I did the boring stuff and uploaded the latest vrsion of zine to my repo
 
 ### Recording Links
 
-- https://lookout.hackclub.com/api/media/2ebc86fb-2988-40f1-8d9e-0c735e4f75d8/video.mp4
-- https://lookout.hackclub.com/api/media/d375ea5b-6b0c-4839-9f35-30c2da5703dc/video.mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(31).mp4
+- https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(32).mp4
