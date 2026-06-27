@@ -121,6 +121,9 @@ Zine Page:
 ---------
 
 
+**I have used about 5-10 percent Ai for queries and brainstorming in this project.**
+
+
 made with love by vivacious_eye :()
 
 
