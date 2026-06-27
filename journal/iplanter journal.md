@@ -39,6 +39,7 @@ Finally these 4 are I think the main components I’m going to be needing for my
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse.mp4
+  _? Covers ~18 minutes of work_
 
 ## Entry 2
 - ID: 1422
@@ -65,6 +66,7 @@ Next I went on to research a little about _KiCAD_ as it was the recommended pcb 
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(1).mp4
+  _? Covers ~29 minutes of work_
 
 ## Entry 3
 - ID: 1499
@@ -95,6 +97,7 @@ Then I closed today's sess thinking I'll see it tomorrow
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(2).mp4
+  _? Covers ~29 minutes of work_
 
 ## Entry 4
 - ID: 1658
@@ -129,6 +132,7 @@ After this I ended my sesh with _mixed feelings hehe.._
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(3).mp4
+  _? Covers ~41 minutes of work_
 
 ## Entry 5
 - ID: 1677
@@ -173,6 +177,7 @@ So, I was happy to end my coding sesh and upload a lil of those files not my git
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(4).mp4
+  _? Covers ~48 minutes of work_
 
 ## Entry 6
 - ID: 1791
@@ -216,7 +221,9 @@ so _UNTIL WE MEET AGAIN.._
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(5).mp4
+  _? Covers ~91 minutes of work_
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(6).mp4
+  _? Covers ~7 minutes of work_
 
 ## Entry 7
 - ID: 1938
@@ -269,6 +276,7 @@ This was my today's routineeee yayyy!!!_
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(7).mp4
+  _? Covers ~121 minutes of work_
 
 ## Entry 8
 - ID: 2323
@@ -313,6 +321,7 @@ But, We are nearing to our design's end so that's a _win_.
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(8).mp4
+  _? Covers ~175 minutes of work_
 
 ## Entry 9
 - ID: 2472
@@ -347,6 +356,7 @@ But, then I accepted defeat and logged out for the day hoping to come back with 
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(9).mp4
+  _? Covers ~38 minutes of work_
 
 ## Entry 10
 - ID: 2577
@@ -402,6 +412,7 @@ Thats all for today byeee!!
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(11).mp4
+  _? Covers ~63 minutes of work_
 
 ## Entry 11
 - ID: 2748
@@ -434,6 +445,7 @@ Thats it for today cause I was short on time todayy byeee!!
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(12).mp4
+  _? Covers ~86 minutes of work_
 
 ## Entry 12
 - ID: 2918
@@ -478,6 +490,7 @@ But, I ended it halfway cause it was close to midnight
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(13).mp4
+  _? Covers ~66 minutes of work_
 
 ## Entry 13
 - ID: 3083
@@ -519,6 +532,7 @@ After that I ended my session by updating the _git repo_
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(14).mp4
+  _? Covers ~79 minutes of work_
 
 ## Entry 14
 - ID: 3237
@@ -571,6 +585,7 @@ After this I uploaded everything to my git repo and ended my session!!
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(15).mp4
+  _? Covers ~70 minutes of work_
 
 ## Entry 15
 - ID: 3416
@@ -606,6 +621,7 @@ The end -- (idk what to write :))
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(16).mp4
+  _? Covers ~69 minutes of work_
 
 ## Entry 16
 - ID: 3709
@@ -637,6 +653,7 @@ Then, I tried to mess around in _fusion_ scouting for spots to put usb ports or 
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(17).mp4
+  _? Covers ~61 minutes of work_
 
 ## Entry 17
 - ID: 3824
@@ -693,6 +710,7 @@ Then I imported the new pcb to Fusion and tried to work with it. I stopped halfw
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(18).mp4
+  _? Covers ~65 minutes of work_
 
 ## Entry 19
 - ID: 4196
@@ -729,6 +747,7 @@ I left it here and closed for the day.
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(19).mp4
+  _? Covers ~104 minutes of work_
 
 ## Entry 20
 - ID: 4328
@@ -767,6 +786,7 @@ Again!1 It looked _veryyy ugly_ SO, I decided I would some type of adhesive to s
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(20).mp4
+  _? Covers ~116 minutes of work_
 
 ## Entry 21
 - ID: 4446
@@ -801,6 +821,7 @@ After calculating all the money for the parts the total was only around 11 dolla
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(21).mp4
+  _? Covers ~72 minutes of work_
 
 ## Entry 22
 - ID: 6109
@@ -826,7 +847,9 @@ I took a lot of time and I was extra careful so that my project doesn't get retu
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(22).mp4
+  _? Covers ~109 minutes of work_
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(23).mp4
+  _? Covers ~30 minutes of work_
 
 ## Entry 23
 - ID: 6237
@@ -848,6 +871,7 @@ I'm going to **resubmittt!!**
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(24).mp4
+  _? Covers ~72 minutes of work_
 
 ## Entry 24
 - ID: 6740
@@ -877,6 +901,7 @@ And then I realised I had to add **shipping costs.** So, I went on the internet 
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(25).mp4
+  _? Covers ~10 minutes of work_
 
 ## Entry 25
 - ID: 8464
@@ -913,6 +938,7 @@ After that I also had to change the photos of the PCB in the Asset's page due to
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(26).mp4
+  _? Covers ~66 minutes of work_
 
 ## Entry 26
 - ID: 11381
@@ -943,7 +969,9 @@ I also shifted all the objects so that they didn't go out of the printing area.
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(27).mp4
+  _? Covers ~79 minutes of work_
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(28).mp4
+  _? Covers ~53 minutes of work_
 
 ## Entry 27
 - ID: 14026
@@ -975,7 +1003,9 @@ I also edited the zine page a lil to make it more **readable and distinguished.*
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(29).mp4
+  _? Covers ~34 minutes of work_
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(30).mp4
+  _? Covers ~61 minutes of work_
 
 ## Entry 28
 - ID: 14568
@@ -1017,4 +1047,9 @@ At last I did the boring stuff and uploaded the latest vrsion of zine to my repo
 ### Recording Links
 
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(31).mp4
+  _? Covers ~36 minutes of work_
 - https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/Timelapses/timelapse%20(32).mp4
+  _? Covers ~15 minutes of work_
+
+---
+**Total recorded time across all timelapses: ~34h 34m (2074 min)**
