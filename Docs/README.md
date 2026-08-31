@@ -7,7 +7,7 @@
 Click [here](https://github.com/vineethjkatti-tech/iplanter/blob/main/journal/iplanter%20journal.md) for the journal.md file!!
 
 # Overview
-I'm building a soil moisture-humidity and temperature sensing smart planter which warns (or reminds) the user to water the plant whenever the planter has low moisture or high temperature or humidity. All of the data is displayed on the OLED display.
+This is a soil moisture-humidity and temperature sensing smart planter which warns (or reminds) the user to water the plant whenever the planter has low moisture or high temperature or humidity. All of the data is displayed on the OLED display.
 
 <img width="1280" height="1024" alt="iplanter(detached)" src="https://github.com/user-attachments/assets/d2d50945-5a55-421f-a495-251fa2300045" />
 
